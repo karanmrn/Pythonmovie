@@ -16,8 +16,8 @@ Interactive Widget for Movie Recommendations
 1. Data Loading and Initial Exploration <a name="data-loading-and-initial-exploration"></a>
 Modules Used: pandas
 Dataset: movies.csv
-
 Description: Loads a dataset of movies into a DataFrame for further processing and displays the first five rows.
+
 3. Data Cleaning <a name="data-cleaning"></a>
 Modules Used: re
 Function: clean_title(title)
